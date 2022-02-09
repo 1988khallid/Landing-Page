@@ -1,0 +1,82 @@
+.mainimage {
+    background-image: url(https://st2.depositphotos.com/3927429/8215/i/600/depositphotos_82158134-stock-photo-athletic-man-and-woman-with.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: black;
+    height: 550px;
+    
+}
+
+h1{
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+
+
+ .title {
+    text-align: center;
+    
+ }
+.centertext {
+    background-color: white;
+    text-align: center;
+}
+
+.bottomnav {
+    text-align: center;
+}
+
+.woman {
+    text-align: center;
+}
+
+iframe {
+    height: 30%;
+    width: 20%;
+}
+
+body {
+    background-color: black;
+}
+
+nav {
+    color: white;
+}
+   
+a {
+    color: white;
+}
+
+ ion-icon {
+     color: white;
+     
+ }
+
+ p {
+     color:white;
+ }
+ font {
+     color:white
+ }  
+
+ hr{
+     color: purple;
+     }
+
+     .navbar {
+       background: purple;
+       display: inline-block;
+
+
+     }
+
+     li {
+        float: left;
+      }
+      a {
+        display: block;
+        padding: 8px;
+       /
+      }  
